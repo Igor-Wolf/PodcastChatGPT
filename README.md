@@ -4,7 +4,7 @@ Esse prototipo tem como objetivo a criação de um podcast sobre a cultura pop, 
 Ele pode ser conferido logo abaixo: 
 
 
-<a href="https://github.com/Igor-Wolf/PodcastChatGPT/raw/main/output/editado/Narra%C3%A7%C3%A3o%20Callum.mp3" title="View PDF now"> 📕Clique aqui para ouvir o Podcast</a>
+<a href="https://github.com/Igor-Wolf/PodcastChatGPT/raw/main/output/editado/Narra%C3%A7%C3%A3o%20Callum.mp3" title="View PDF now"> 📕Clique aqui para baixar e ouvir o Podcast</a>
 
 
 ## 💻 Tecnologias utilizadas no projeto
